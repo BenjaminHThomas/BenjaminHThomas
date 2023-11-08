@@ -12,7 +12,7 @@ I haven't been all that active on GitHub, but I'll be uploading a lot more in th
 
 💼 What I'm Currently Working On:
 - I'm teaching myself react so I can build pretty UI's for my coming projects 🌸
-- I working on building an automated smart home system using raspberry pi and IoT sensors (C02 sensors, humiditiy & temperature sensors). I'll have this system interface with OpenAI's API's so it can act as a personal assistant as well.
+- I'm working on building an automated smart home system using raspberry pi and IoT sensors (C02 sensors, humiditiy & temperature sensors). I'll have this system interface with OpenAI's API's so it can act as a personal assistant as well.
 
 
 
