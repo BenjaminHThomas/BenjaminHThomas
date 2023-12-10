@@ -12,6 +12,7 @@ I haven't been all that active on GitHub, but I'll be uploading a lot more in th
 
 💼 What I'm Currently Working On:
 - I'm currently building a webscraper in Python as part of a bigger project to automate real estate investment analysis.
+  
 
 💬 If you'd like to work with me on a project or would like help on anything, please reach out to me.
 
