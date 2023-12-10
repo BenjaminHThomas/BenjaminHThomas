@@ -11,11 +11,9 @@ I haven't been all that active on GitHub, but I'll be uploading a lot more in th
 - SQL 
 
 💼 What I'm Currently Working On:
-- I'm teaching myself react so I can build pretty UI's for my coming projects 🌸
-- I'm working on building an automated smart home system using raspberry pi and IoT sensors (C02 sensors, humiditiy & temperature sensors). I'll have this system interface with OpenAI's API's so it can act as a personal assistant as well.
+- I'm currently building a webscraper in Python as part of a bigger project to automate real estate investment analysis.
 
-
-
+💬 If you'd like to work with me on a project or would like help on anything, please reach out to me.
 
 <!--
 **BenjaminHThomas/BenjaminHThomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
