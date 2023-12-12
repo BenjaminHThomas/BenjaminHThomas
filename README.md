@@ -6,7 +6,6 @@ I haven't been all that active on GitHub, but I'll be uploading a lot more in th
 
 🖋 Languages:
 - Python 
-- Javascript (basic)
 - R 
 - SQL 
 
