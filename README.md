@@ -19,7 +19,7 @@ I'm currently working on a end-to-end automated real estate investment analysis 
   - There's also the, first of many, supplementary analysis workbooks [here](https://github.com/BenjaminHThomas/paris-re-analysis/blob/main/exploration_1.ipynb). In the workbook I clean the data, do some basic analysis and feature engineering, and some modelling with a randomforest regression model.
 <br/><br/>
 
-The intent is for the project to act as a pre-screening tool when searching for apartments to rent, or investment properties. Eventually, you'll be able to enter your search parameters (budget, number of rooms, area, size m2...) and quickly identify which appartments are the best value (cheap rent for the characteristics of the apartment, or high estimated ROI). 
+The intent is for the project to act as a pre-screening tool when searching for apartments to rent, or investment properties. Eventually, you'll be able to enter your search parameters (budget, number of rooms, area, size m2...) and quickly identify which apartments are the best value (cheap rent for the characteristics of the apartment, or high estimated ROI). 
 
 It is still a work in progress. The script runs smoothly and is not detected by bot-detection systems, but there are still some minor bugs and features that I'd like to add (additional websites, adding rotating proxies if needed).
 
