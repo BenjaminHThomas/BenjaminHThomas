@@ -2,8 +2,7 @@
 
 I'm Ben, a Technical Project Manager from Perth 🇦🇺, currently living in Paris 🇫🇷.
 
-
-<br/><br/>
+<br/>
 🖋 Languages:
 - Python 
 - R 
