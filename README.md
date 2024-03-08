@@ -15,7 +15,7 @@ I'm Ben, a Technical Project Manager from Perth 🇦🇺, currently living in Pa
 
 I'm currently working on a end-to-end automated real estate investment analysis project:
   
-  - The webscraper ([here](https://github.com/BenjaminHThomas/Paris-RE-Scraper)) goes through all the listings of Paris properties for sale or rent on bienici.com and stores them in a mysql database.
+  - The webscraper ([here](https://github.com/BenjaminHThomas/Paris-RE-Scraper)) goes through all the listings of Paris properties for sale or rent on bienici.com & Seloger and stores them in a mysql database.
   - There's also the, first of many, supplementary analysis workbooks [here](https://github.com/BenjaminHThomas/paris-re-analysis/blob/main/exploration_1.ipynb). In the workbook I clean the data, do some basic analysis and feature engineering, and some modelling with a randomforest regression model.
 <br/><br/>
 
