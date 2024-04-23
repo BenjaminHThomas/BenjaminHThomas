@@ -17,13 +17,16 @@ Currently job hunting, so if you are a recruiter, hiring manager or happen to kn
   
   - Real-estate webscraper ([here](https://github.com/BenjaminHThomas/Paris-RE-Scraper)). It goes through all the listings of Paris properties for sale or rent on bienici.com & Seloger and stores them in a mysql database.
   - A very quick analysis workbook on the real estate data [here](https://github.com/BenjaminHThomas/paris-re-analysis/blob/main/exploration_1.ipynb). In the workbook I clean the data, do some basic analysis and feature engineering, and some modelling with a randomforest regression model.
-  - Very soon I'll begin work on a c-based text editor. Similar to vim, just much simpler. 
 
 <br/><br/>
 
 🌱 I’m currently learning
-  - JS and react so that I can build a pretty and responsive websites.
-  - C
+  - I was recently accepted into school42 (Ecole42) in Paris. I'm working through the common core units, which involves low-level programming in C. I will be making the repo's public once I've finished the units.
+  - You have 18 months to complete the program, but I aim to be finished within 8 months.
+  - I've finished the [first project](https://github.com/hhaakkimm/ft_libft/blob/master/subject/libft.pdf), which I'll validate and submit when I officially start in May.
+
+🔭 I’m currently working on
+  - A recreation of [printf](https://github.com/fpetras/42-subjects/blob/master/ft_printf.en.pdf).
 
 <br/><br/>
 
