@@ -25,7 +25,7 @@ Currently job hunting, so if you are a recruiter, hiring manager or happen to kn
   - You have 18 months to complete the program, but I aim to be finished within 8 months.
 
 🔭 I’m currently working on
-  - A recreation of [printf](https://github.com/fpetras/42-subjects/blob/master/ft_printf.en.pdf).
+  - An interactive display of the Mandelbrot and Julia set in C using the minilibx API for X11.
 
 <br/><br/>
 
