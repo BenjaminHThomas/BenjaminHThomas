@@ -23,7 +23,6 @@ Currently job hunting, so if you are a recruiter, hiring manager or happen to kn
 🌱 I’m currently learning
   - I was recently accepted into school42 [(Ecole42)](https://42.fr/en/homepage/) in Paris. I'm working through the common core units, which involves low-level programming in C. I will be making the repo's public once I've finished the units.
   - You have 18 months to complete the program, but I aim to be finished within 8 months.
-  - I've finished the [first project](https://github.com/hhaakkimm/ft_libft/blob/master/subject/libft.pdf), which I'll validate and submit when I officially start in May.
 
 🔭 I’m currently working on
   - A recreation of [printf](https://github.com/fpetras/42-subjects/blob/master/ft_printf.en.pdf).
