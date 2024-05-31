@@ -14,7 +14,7 @@ Currently job hunting, so if you are a recruiter, hiring manager or happen to kn
 <br/><br/>
 
 💼 My recent projects:
-  - During my previous role as a technical project manager at Ventia I built a system, named the "Automatic Pricing System", that automatically selects the best-value subcontractor for infrastructure projects nationally. I obviously can't share the code or specifics, but would be happy to discuss and provide references who can vouch for its efficacy.
+  - During my previous role at Ventia I built a system, named the "Automatic Pricing System", that automatically selects the best-value subcontractor for infrastructure projects nationally. I can't share the code but would be happy to discuss.
   - Real-estate webscraper ([here](https://github.com/BenjaminHThomas/Paris-RE-Scraper)). It goes through all the listings of Paris properties for sale or rent on bienici.com & Seloger and stores them in a mysql database.
   - A very quick analysis workbook on the real estate data [here](https://github.com/BenjaminHThomas/paris-re-analysis/blob/main/exploration_1.ipynb). In the workbook I clean the data, do some basic analysis and feature engineering, and some modelling with a randomforest regression model.
 
@@ -25,7 +25,7 @@ Currently job hunting, so if you are a recruiter, hiring manager or happen to kn
   - You have 18 months to complete the program, but I aim to be finished within 8 months.
 
 🔭 I’m currently working on
-  - An interactive display of the Mandelbrot and Julia set in C using the minilibx API for X11.
+  - A recreation of unix pipes in C.
 
 <br/><br/>
 
