@@ -19,7 +19,6 @@ I'm Ben, I recently left my job as a Technical Project Manager in Perth 🇦🇺
 
 🌱 I’m currently learning
   - I was recently accepted into school42 [(Ecole42)](https://42.fr/en/homepage/) in Paris. I'm working through the common core units, which involves low-level programming in C & C++. I will be making the repo's public once I've finished the units.
-  - You have 18 months to complete the program, but I aim to be finished within 8 months.
 
 <br/><br/>
 
