@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-I'm Ben, I recently left my job as a Technical Project Manager in Perth 🇦🇺, and moved to Paris 🇫🇷. If you're a recruiter or know of positions I'd be suitable for, please get in touch.
-<br/>
-
 🖋 Languages:
 - Python 
-- R 
+- R
 - SQL
-- C
+- C++
 <br/><br/>
 
 💼 My recent projects:
