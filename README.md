@@ -1,4 +1,4 @@
-Bio: An aspiring software engineer living in Paris.
+Aspiring software engineer living in Paris.
 
 🖋 Languages:
 - Python
